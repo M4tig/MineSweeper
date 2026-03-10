@@ -17,7 +17,7 @@ The game follows the classic rules:
 - clearing safe cells reveals clues about neighboring mines
 - if a cell has no neighboring mines, nearby cells are revealed automatically
 
-Like many modern Minesweeper implementations, the **first move is always safe**, and mines are only placed after the player's first chosen coordinate. The project also uses a **pseudo-random generator** to place mines. fileciteturn3file0
+Like many modern Minesweeper implementations, the **first move is always safe**, and mines are only placed after the player's first chosen coordinate. The project also uses a **pseudo-random generator** to place mines.
 
 ---
 
@@ -69,7 +69,7 @@ The board shows:
 - revealed cells
 - clue numbers indicating how many neighboring cells contain mines
 
-The game is won when all non-mined cells have been revealed. fileciteturn3file0
+The game is won when all non-mined cells have been revealed.
 
 ---
 
@@ -80,7 +80,7 @@ This project was developed under some interesting constraints:
 - everything had to be submitted in a **single `.py` file**
 - no external modules were allowed, except for `reduce` from `functools`
 - the project required careful separation between data abstraction and higher-level logic
-- output formatting had to exactly match the specification for automatic grading fileciteturn3file0
+- output formatting had to exactly match the specification for automatic grading
 
 Because of that, this project was a good exercise in:
 - functional decomposition
@@ -112,7 +112,7 @@ where:
 - `l` is the last row
 - `n` is the number of mines
 - `d` is the generator dimension
-- `s` is the generator seed fileciteturn3file0
+- `s` is the generator seed
 
 Example:
 
@@ -139,7 +139,7 @@ Looking back, it is definitely a beginner project, but it was also one of the pr
 
 ## Notes
 
-- This project was developed for the **2022/2023** edition of **Fundamentos da Programação**. fileciteturn3file0
+- This project was developed for the **2022/2023** edition of **Fundamentos da Programação**.
 - The original assignment was written in Portuguese.
 - The implementation is text-based and focused on correctness according to the course specification.
 - As an early academic project, the code may reflect the learning stage I was in at the time.
