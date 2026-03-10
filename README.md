@@ -1,4 +1,4 @@
-# Minesweeper
+# MineSweeper
 
 My first university project — a Python implementation of the classic **Minesweeper** game.
 
