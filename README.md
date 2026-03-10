@@ -38,7 +38,7 @@ On top of these, the project includes:
 - turn handling
 - full game execution
 
-The assignment also required respecting **abstraction barriers**, so a big part of the challenge was not just making the game work, but organizing the logic cleanly around the required TADs. fileciteturn3file0
+The assignment also required respecting **abstraction barriers**, so a big part of the challenge was not just making the game work, but organizing the logic cleanly around the required TADs.
 
 ---
 
